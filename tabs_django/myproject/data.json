@@ -235,7 +235,7 @@
     "fields": {
       "action_flag": 2, 
       "action_time": "2012-12-02T19:08:52.980Z", 
-      "object_repr": "christian.muise@gmail.com (foo (5))", 
+      "object_repr": "info@tabsontoronto.ca (Zoo (5))", 
       "object_id": "1", 
       "change_message": "Changed email and last_result.", 
       "user": [
